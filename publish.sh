@@ -2,19 +2,18 @@
 
 source conf/env.sh
 
-## Clean
+echo "Clone from remote repos ..."
 rm -rf site/
+git clone ${GIT_REPOS} site
+
+## Build
 mkdocs build --clean
-
-TS=`date +%Y%m%d-%H%M`
-
 
 ## Commit
 cd site
-
-git init
+git status
 git add .
 git commit -m "update on $TS"
-git remote add origin ${GIT_REPOS}
-git push -u origin master
+git push
 
+echo "Done"
