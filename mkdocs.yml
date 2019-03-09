@@ -27,7 +27,7 @@ nav:
     - "第卅、卅一章": "01_SRE/CH30-31.md"
     - "第卅二～卅四章": "01_SRE/CH32-34.md"
   - "讀書會 Round 2": 02_CD.md
-  - "Round 2: Continous Delivery":
+  - "Round 2: Continuous Delivery":
     - "第一章 軟體交付的問題": "02_CD/CH01.md"
     - "第二章 設置管理": "02_CD/CH02.md"
     - "第三章 持續整合": "02_CD/CH03.md"
