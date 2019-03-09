@@ -1,5 +1,5 @@
 
-## Public Information
+# Public Information
 
 * 靜態頁面 (bootstrap)：
   * site: https://www.sre.tw
@@ -8,6 +8,25 @@
   * source repos: https://cross-community.github.io/study-area-docs/
   * site repos: https://cross-community.github.io/study-area-site/
   * site url: https://study-area.sre.tw/
+
+## 目錄結構說明
+
+```bash
+└── docs/ 主要文件原始檔, markdown
+    ├── 01_SRE
+    ├── 02_CD
+    ├── 03_CD
+    ├── act/ 活動紀錄，照片、相關資訊等
+    │   ├── 01_SRE
+    │   ├── 02_CD
+    │   └── 03_K8s
+    ├── pdf/ 讀書會產出資料
+    │   ├── CD
+    │   ├── SRE
+    │   └── events
+    └── stylesheets
+```
+
 
 
 ---
