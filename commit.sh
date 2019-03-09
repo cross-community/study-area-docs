@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TS=`date +%Y%m%d-%H%M`
+source conf/env.sh
 
 DESC=$1
 

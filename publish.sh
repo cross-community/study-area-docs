@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GIT_REPOS="https://github.com/cross-community/study-sre-site.git"
+source conf/env.sh
 
 ## Clean
 rm -rf site/

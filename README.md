@@ -1,13 +1,17 @@
 
 # Public Information
 
-* 靜態頁面 (bootstrap)：
-  * site: `https://www.sre.tw`
-  * repos: `https://cross-community.github.io/sre/`
-* 讀書會資料 (mkdocs)：
+* https://www.sre.tw
+  * 靜態頁面 (bootstrap)：
+  * git repos: `https://cross-community.github.io/sre/`
+* https://study-area.sre.tw/
+  * 讀書會資料 (mkdocs)
   * source repos: `https://cross-community.github.io/study-area-docs/`
   * site repos: `https://cross-community.github.io/study-area-site/`
-  * site url: `https://study-area.sre.tw/`
+* https://fb.sre.tw/
+  * Facebook 社群短連結
+  * https://www.facebook.com/groups/sre.taiwan/
+
 
 ## 目錄結構說明
 
