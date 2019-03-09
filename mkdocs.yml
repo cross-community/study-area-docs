@@ -1,0 +1,70 @@
+## Site
+site_name: "SRE / DevOps Taiwan 讀書會"
+site_url: 'https://cross-community.github.io/study-sre/'
+repo_url: https://github.com/cross-community/src_round1-sre/
+docs_dir: 'docs'
+
+# Copyright
+#copyright: 'Copyright &copy; 2016 - 2017 Martin Donath'
+
+## Navigator
+nav:
+  - "讀書會緣由": index.md
+  - "Round 1: Site Reliability Engineering":
+    - "緒論、第一章": "01_SRE/CH01.md"
+    - "第二、三、四章": "01_SRE/CH02-04.md"
+    - "第五、六、七章": "01_SRE/CH05-07.md"
+    - "第八～十一章": "01_SRE/CH08-11.md"
+    - "第十二～十五章": "01_SRE/CH12-15.md"
+    - "第十六～十八章": "01_SRE/CH16-18.md"
+    - "第十九～廿一章": "01_SRE/CH19-21.md"
+    - "第廿二章": "01_SRE/CH22.md"
+    - "第廿三、廿四章": "01_SRE/CH23-24.md"
+    - "第廿五章": "01_SRE/CH25.md"
+    - "第廿六、廿八章": "01_SRE/CH26-28.md"
+    - "第廿七章": "01_SRE/CH27.md"
+    - "第卅、卅一章": "01_SRE/CH30-31.md"
+    - "第卅二～卅四章": "01_SRE/CH32-34.md"
+  - "SRE 經典好文": "Articles.md"
+  - "事件處理案例": "Incidents.md"
+  - "相關活動分享": "Events.md"
+  - "Change Log": "ChangeLog.md"
+
+##
+# Theme: material
+theme:
+#  name: readthedocs # default
+  name: material
+  palette:
+    primary: 'light blue'
+    accent: 'indigo'
+  logo:
+    icon: 'cloud'
+  language: 'zh-TW'
+  feature:
+    tabs: false
+
+## Custom
+#extra_css:
+#  - 'stylesheets/extra.css'
+
+extra:
+  manifest: 'manifest.webmanifest'
+  # https://squidfunk.github.io/mkdocs-material/getting-started/#adding-social-links
+  social:
+    - type: facebook
+      link: https://www.facebook.com/groups/sre.taiwan/
+    - type: github
+      link: https://github.com/cross-community/sre/
+  disqus: 'cross-community'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+
+google_analytics: ['UA-125861317-1', 'cross-community.github.io']
