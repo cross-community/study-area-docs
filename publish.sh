@@ -2,9 +2,9 @@
 
 source conf/env.sh
 
-echo "Clone from remote repos ..."
+echo "Clone site from remote repos ..."
 rm -rf site/
-git clone ${GIT_REPOS} site
+git clone ${SITE_GIT_REPOS} site
 
 ## Build
 mkdocs build --clean
