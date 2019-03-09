@@ -10,6 +10,7 @@ docs_dir: 'docs'
 ## Navigator
 nav:
   - "讀書會緣由": index.md
+  - "導讀 Guideline": GuideLine.md
   - "Round 1: Site Reliability Engineering":
     - "緒論、第一章": "01_SRE/CH01.md"
     - "第二、三、四章": "01_SRE/CH02-04.md"
