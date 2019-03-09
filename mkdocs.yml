@@ -1,7 +1,7 @@
 ## Site
-site_name: "SRE / DevOps Taiwan 讀書會"
-site_url: 'https://cross-community.github.io/study-sre/'
-repo_url: https://github.com/cross-community/src_round1-sre/
+site_name: SRE / DevOps Taiwan 讀書會
+site_url: 'https://study-are.sre.tw/'
+repo_url: 'https://github.com/cross-community/study-area-docs'
 docs_dir: 'docs'
 
 # Copyright
@@ -25,6 +25,24 @@ nav:
     - "第廿七章": "01_SRE/CH27.md"
     - "第卅、卅一章": "01_SRE/CH30-31.md"
     - "第卅二～卅四章": "01_SRE/CH32-34.md"
+  - "讀書會 Round 2": 02_CD.md
+  - "Round 2: Continous Delivery":
+    - "第一章 軟體交付的問題": "02_CD/CH01.md"
+    - "第二章 設置管理": "02_CD/CH02.md"
+    - "第三章 持續整合": "02_CD/CH03.md"
+    - "第四章 測試策略的實現": "02_CD/CH04.md"
+    - "第五章 部署流水線": "02_CD/CH05.md"
+    - "第六章 建置與佈署腳本化": "02_CD/CH06.md"
+    - "第七章 提交階段": "02_CD/CH07.md"
+    - "第八章 驗收測試階段": "02_CD/CH08.md"
+    - "第九章 非功能需求測試": "02_CD/CH09.md"
+    - "第十章 應用程式的部署與發佈": "02_CD/CH10.md"
+    - "第十一章 管理基礎設施與環境": "02_CD/CH11.md"
+    - "第十二章 資料管理": "02_CD/CH12.md"
+    - "第十三章 元件相依性管理": "02_CD/CH13.md"
+    - "第十四章 版本控制進階": "02_CD/CH14.md"
+    - "第十五章 持續交付管理": "02_CD/CH15.md"
+  - "讀書會 Round 3": 03_K8s.md
   - "SRE 經典好文": "Articles.md"
   - "事件處理案例": "Incidents.md"
   - "相關活動分享": "Events.md"
