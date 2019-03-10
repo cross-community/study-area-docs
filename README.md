@@ -71,5 +71,4 @@ mkdocs serve
 * [Site Reliability Engineering Taiwan](https://www.facebook.com/groups/sre.taiwan/)
 * [DevOps Taiwn](https://www.facebook.com/groups/DevOpsTaiwan/)
 * DNS (sre.tw) 提供：[Chu-Siang Lai](http://note.drx.tw/)
-* pixnet.net
-* 91APP
+* 讀書會場地提供：pixnet.net, 91APP

@@ -2,13 +2,13 @@
 
 source conf/env.sh
 
-if [ ! -d "$DIRECTORY" ]; then
+if [ ! -d "site" ]; then
   echo "Clone site from remote repos ..."
   #rm -rf site/
   git clone ${SITE_GIT_REPOS} site
 fi
 
-if [ -d "$DIRECTORY" ]; then
+if [ -d "site" ]; then
   echo "Pull site from remote repos ..."
   cd site
   git pull
