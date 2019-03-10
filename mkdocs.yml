@@ -77,8 +77,8 @@ extra:
     - type: facebook
       link: https://www.facebook.com/groups/sre.taiwan/
     - type: github
-      link: https://github.com/cross-community/sre/
-  disqus: 'cross-community'
+      link: https://github.com/cross-community/study-area-docs/
+  disqus: 'sre-tw'
 
 # Extensions
 markdown_extensions:
