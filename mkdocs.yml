@@ -50,7 +50,9 @@ nav:
   - "讀書會 Round 3": 03_K8s.md
   - "----------": separator.md
   - "導讀 Guideline": GuideLine.md
+  - "----------": separator.md
   - "Change Log": "ChangeLog.md"
+  - "記事": "notes.md"
 
 ##
 # Theme: material

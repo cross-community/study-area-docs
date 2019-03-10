@@ -1,14 +1,14 @@
 
 # Public Information
 
-* https://www.sre.tw
+* `https://www.sre.tw`
   * 靜態頁面 (bootstrap)：
   * git repos: `https://cross-community.github.io/sre/`
-* https://study-area.sre.tw/
+* `https://study-area.sre.tw/`
   * 讀書會資料 (mkdocs)
   * source repos: `https://cross-community.github.io/study-area-docs/`
   * site repos: `https://cross-community.github.io/study-area-site/`
-* https://fb.sre.tw/
+* `https://fb.sre.tw/`
   * Facebook 社群短連結
   * https://www.facebook.com/groups/sre.taiwan/
 
@@ -60,9 +60,11 @@ mkdocs serve
 ---
 # Reference
 
-* https://www.mkdocs.org/
-* https://squidfunk.github.io/mkdocs-material/
-* https://cross-community.disqus.com/
+## Tools
+
+* Static Site Generator: https://www.mkdocs.org/
+* Template Engine: https://squidfunk.github.io/mkdocs-material/
+* Disucssion: https://sre-tw.disqus.com/
 
 ## Contributors
 
