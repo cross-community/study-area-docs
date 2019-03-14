@@ -24,6 +24,8 @@
 
 * 導讀者：
     * 用 Slide 導讀，匯出 PDF，發 PR 到 github.
+* 小組成員：
+    * 協助記錄共筆與問題討論重點
 * 聽講者：
     * 提問題
     * 分享找到的資訊
@@ -43,4 +45,15 @@
 * 幫別人解決問題
 * 分享、演講、教學 (坑)
 * 問問題，找答案
-* [學習法則](https://rickhw.github.io/2017/09/20/About/Learning-Approaches/)
+*
+
+
+---
+# 關於學習
+
+我一直覺得只有扎實的思考過，主動的學習，才是真的有效地學，這些心路歷程也形成數我自己的 [學習法則](https://rickhw.github.io/2017/09/20/About/Learning-Approaches/)。最後引用 [William Yeh](https://www.facebook.com/william.yeh) 在 2018 Agile Summit Taiwan 的這個圖呼應我的想法：
+
+![](/images/about_learning.jpg)
+
+[來源](https://www.facebook.com/photo.php?fbid=10156477083853774&set=a.194710708773&type=3&theater)
+
