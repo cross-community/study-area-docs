@@ -51,7 +51,7 @@
 ---
 # 關於學習
 
-我一直覺得只有扎實的思考過，主動的學習，才是真的有效地學，這些心路歷程也形成數我自己的 [學習法則](https://rickhw.github.io/2017/09/20/About/Learning-Approaches/)。最後引用 [William Yeh](https://www.facebook.com/william.yeh) 在 2018 Agile Summit Taiwan 的這個圖呼應我的想法：
+我一直覺得只有扎實的思考過、主動參與討論的學習，才是真的有效地學，這些心路歷程也形成屬於我自己的 [學習法則](https://rickhw.github.io/2017/09/20/About/Learning-Approaches/)。最後引用 [William Yeh](https://www.facebook.com/william.yeh) 在 2018 Agile Summit Taiwan 的這個圖呼應我的想法：
 
 ![](/images/about_learning.jpg)
 
