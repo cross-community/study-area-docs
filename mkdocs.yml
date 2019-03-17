@@ -47,7 +47,11 @@ nav:
     - "第十四章 版本控制進階": "02_CD/CH14.md"
     - "第十五章 持續交付管理": "02_CD/CH15.md"
   - "----------": separator.md
-  - "讀書會 Round 3": 03_K8s.md
+  - "讀書會 Round 3":
+    - "春酒與選書": 03_K8s.md
+    - "讀書會行程": "03_K8s/Schedule.md"
+    - "讀書會 QA": "03_K8s/QA.md"
+#    - "相見歡": "03_K8s/0314.md"
   - "----------": separator.md
   - "導讀 Guideline": GuideLine.md
   - "----------": separator.md
