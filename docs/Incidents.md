@@ -1,8 +1,10 @@
 
 ## 2018
 
-* 2018/10/30: [GitHub October 21 post-incident analysis](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/?fbclid=IwAR2l-X4imO6l2SnY1QdrtFoPr8BzVk83pf-_QJ-qS0mgwTgjtAC7z5vM3UU)
-* 2018/10/21: GitHub 異常 https://www.facebook.com/groups/sre.taiwan/permalink/1176448732521029/
+* 2019/06/03: Google: [An update on Sunday’s service disruption](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption) by Benjamin Treynor Sloss
+VP, 24x7
+* 2018/10/30: [GitHub October 21 post-incident analysis](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
+    * [中文簡譯 by Rick Hwang](https://rickhw.github.io/2019/06/05/DevOps/Github-Incident-Analysis/), [草稿](https://www.facebook.com/groups/sre.taiwan/permalink/1176448732521029/)
 * 2018/10/17: [歷史性的一刻，Youtube 爛了。](https://www.facebook.com/groups/sre.taiwan/permalink/1164643200368249/)
 * 2018/10/13: [What I learned by bringing down LinkedIn.com](https://venturebeat.com/2018/10/13/what-i-learned-by-bringing-down-linkedin-com/)
 * 208/07/18: [沒谷歌不行.. 當機造成寶可夢、Snapchat暫時下線](https://news.cnyes.com/news/id/4167982)
