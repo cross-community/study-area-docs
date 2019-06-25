@@ -1,4 +1,9 @@
 
+
+## 2019
+
+* 2019/06/24: [How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/), BGP路由外洩造成全球網路不穩，Cloudflare、臉書、Amazon都遭殃[](https://www.ithome.com.tw/news/131459)
+
 ## 2018
 
 * 2018/10/30: [GitHub October 21 post-incident analysis](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/?fbclid=IwAR2l-X4imO6l2SnY1QdrtFoPr8BzVk83pf-_QJ-qS0mgwTgjtAC7z5vM3UU)
