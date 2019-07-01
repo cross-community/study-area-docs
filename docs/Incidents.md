@@ -13,7 +13,7 @@ VP, 24x7
     * [中文簡譯 by Rick Hwang](https://rickhw.github.io/2019/06/05/DevOps/Github-Incident-Analysis/), [草稿](https://www.facebook.com/groups/sre.taiwan/permalink/1176448732521029/)
 * 2018/10/17: [歷史性的一刻，Youtube 爛了。](https://www.facebook.com/groups/sre.taiwan/permalink/1164643200368249/)
 * 2018/10/13: [What I learned by bringing down LinkedIn.com](https://venturebeat.com/2018/10/13/what-i-learned-by-bringing-down-linkedin-com/)
-* 208/07/18: [沒谷歌不行.. 當機造成寶可夢、Snapchat暫時下線](https://news.cnyes.com/news/id/4167982)
+* 2018/07/18: [沒谷歌不行.. 當機造成寶可夢、Snapchat暫時下線](https://news.cnyes.com/news/id/4167982)
 * 2018/06/27: Slack 異常 https://www.facebook.com/groups/sre.taiwan/permalink/1060397500792820/
 * 2018/09/04 Azure 雷擊事件. 2018年9月4日星期二，VSTS（現名為Azure DevOps）遭遇長時間的故障，影響了在美國中南部地區（全球託管VSTS客户的10個地區之一）設有組織的客户。
 
