@@ -2,6 +2,7 @@
 
 ## 2019
 
+* 2019/06/28 - 06/29: [Degraded functionality with several features](https://status.slack.com/2019-06/9f63d8e30ee85f46), [Slack服務突槌超過15個小時](https://www.ithome.com.tw/news/131557)
 * 2019/06/24: [How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today](https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/), BGP路由外洩造成全球網路不穩，Cloudflare、臉書、Amazon都遭殃[](https://www.ithome.com.tw/news/131459)
 * 2019/06/03: Google: [An update on Sunday’s service disruption](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption) by Benjamin Treynor Sloss
 VP, 24x7
