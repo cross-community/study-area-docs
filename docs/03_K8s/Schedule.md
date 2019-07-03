@@ -24,9 +24,10 @@
 
 選書是經過讀書會成員投票出來的，投票書目如下：
 
-1. 深入淺出 K8s
-2. 從零開始學架構
-3. Infrastructure as Code
+1. [深入剖析 Kubernetes](https://time.geekbang.org/column/intro/116)
+2. [從零開始學架構](https://time.geekbang.org/column/intro/81)
+3. [Infrastructure as Code](https://www.tenlong.com.tw/products/9781491924358)
+
 
 最後由 1) 勝出。
 
