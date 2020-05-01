@@ -4,8 +4,6 @@ site_url: 'https://study-area.sre.tw/'
 repo_url: 'https://github.com/cross-community/study-area-docs'
 docs_dir: 'docs'
 
-# Copyright
-#copyright: 'Copyright &copy; 2016 - 2017 Martin Donath'
 
 ## Navigator
 nav:
@@ -25,9 +23,9 @@ nav:
     - "第廿七章": "01_SRE/CH27.md"
     - "第卅、卅一章": "01_SRE/CH30-31.md"
     - "第卅二～卅四章": "01_SRE/CH32-34.md"
-  - "SRE 經典好文": "Articles.md"
-  - "事件處理案例": "Incidents.md"
-  - "相關活動分享": "Events.md"
+    - "SRE 經典好文": "Articles.md"
+    - "事件處理案例": "Incidents.md"
+    - "相關活動分享": "Events.md"
   - "----------": separator.md
   - "讀書會 Round 2": 02_CD.md
   - "導讀：Continuous Delivery":
@@ -46,18 +44,15 @@ nav:
     - "第十三章 元件相依性管理": "02_CD/CH13.md"
     - "第十四章 版本控制進階": "02_CD/CH14.md"
     - "第十五章 持續交付管理": "02_CD/CH15.md"
-  - "----------": separator.md
   - "讀書會 Round 3":
     - "春酒與選書": 03_K8s.md
     - "讀書會行程": "03_K8s/Schedule.md"
     - "讀書會 QA": "03_K8s/QA.md"
     - "第十八章": "03_K8s/CH18.md"
     - "第十九章": "03_K8s/CH19.md"
-#    - "#01 ": "03_K8s/P01.md"
-#    - "相見歡": "03_K8s/0314.md"
-  - "----------": separator.md
+#  - "讀書會 Round 4":
+#    - "選書": 04_Linux.md
   - "導讀 Guideline": GuideLine.md
-  - "----------": separator.md
   - "Change Log": "ChangeLog.md"
   - "記事": "notes.md"
 

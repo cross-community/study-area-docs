@@ -38,14 +38,17 @@
 ## Install, Debug, Publish
 
 ```bash
+## Install pip on macOS
+#sudo easy_install pip
+
 ## mkdocs
 # see: https://www.mkdocs.org/#installation
-pip install --upgrade pip
-pip install mkdocs
+pip3 install --upgrade pip
+pip3 install mkdocs
 
 ## Theme: meterial
 # https://squidfunk.github.io/mkdocs-material/
-pip install mkdocs-material
+pip3 install mkdocs-material
 
 
 ## Run in local
@@ -65,6 +68,7 @@ mkdocs serve
 * Static Site Generator: https://www.mkdocs.org/
 * Template Engine: https://squidfunk.github.io/mkdocs-material/
 * Disucssion: https://sre-tw.disqus.com/
+* [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
 
 ## Contributors
 
