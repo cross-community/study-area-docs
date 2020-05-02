@@ -5,6 +5,14 @@
 * `-`: 刪除
 * `=`: 異動
 
+
+## 2020/05/02
+
+* `=` 升級 python2.7 to python3.7 (macOS)
+* `=` 升級 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/releases/5/#extrarepo_icon) 版本， 4.x to 5.x
+* `+` 新增 Round4 資料
+
+
 ## 2019/03/09
 
 * `+` 增加 Round 3 資料.

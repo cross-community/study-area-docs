@@ -1,14 +1,21 @@
-## Site
+# -----------------------------------------------------------------------------
+# Site Info
+# -----------------------------------------------------------------------------
 site_name: SRE / DevOps Taiwan 讀書會
 site_url: 'https://study-area.sre.tw/'
 repo_url: 'https://github.com/cross-community/study-area-docs'
 docs_dir: 'docs'
 
-
-## Navigator
+# -----------------------------------------------------------------------------
+# Navigator
+# -----------------------------------------------------------------------------
 nav:
-  - "讀書會緣由": index.md
-  - "導讀：Site Reliability Engineering":
+  - "讀書會": 
+    - "緣由": index.md
+    - "導讀摘要": GuideLine.md
+    - "Change Log": "ChangeLog.md"
+    - "記事": "notes.md"
+  - "R1: Site Reliability Engineering":
     - "緒論、第一章": "01_SRE/CH01.md"
     - "第二、三、四章": "01_SRE/CH02-04.md"
     - "第五、六、七章": "01_SRE/CH05-07.md"
@@ -27,8 +34,8 @@ nav:
     - "事件處理案例": "Incidents.md"
     - "相關活動分享": "Events.md"
   - "----------": separator.md
-  - "讀書會 Round 2": 02_CD.md
-  - "導讀：Continuous Delivery":
+  - "R2: Continuous Delivery": 
+    - "活動摘要": 02_CD.md
     - "第一章 軟體交付的問題": "02_CD/CH01.md"
     - "第二章 設置管理": "02_CD/CH02.md"
     - "第三章 持續整合": "02_CD/CH03.md"
@@ -44,47 +51,52 @@ nav:
     - "第十三章 元件相依性管理": "02_CD/CH13.md"
     - "第十四章 版本控制進階": "02_CD/CH14.md"
     - "第十五章 持續交付管理": "02_CD/CH15.md"
-  - "讀書會 Round 3":
+  - "R3：深入剖析 K8s":
     - "春酒與選書": 03_K8s.md
     - "讀書會行程": "03_K8s/Schedule.md"
     - "讀書會 QA": "03_K8s/QA.md"
     - "第十八章": "03_K8s/CH18.md"
     - "第十九章": "03_K8s/CH19.md"
-#  - "讀書會 Round 4":
-#    - "選書": 04_Linux.md
-  - "導讀 Guideline": GuideLine.md
-  - "Change Log": "ChangeLog.md"
-  - "記事": "notes.md"
+  - "R4: Linux 效能優化實戰":
+    - "活動摘要": 04_Linux.md
+    - "選書": "04_Linux/Vote.md"
+    - "第一 ~ 第四章": "04_Linux/R4-01.md"
 
-##
+# -----------------------------------------------------------------------------
 # Theme: material
+# -----------------------------------------------------------------------------
 theme:
-#  name: readthedocs # default
   name: material
   palette:
     primary: 'light blue'
     accent: 'indigo'
-  logo:
-    icon: 'cloud'
+  #logo: images/logo.svg
+  #favicon: images/favicon.png
+  icon:
+    logo: material/cloud
+  #  repo: fontawesome/brands/git-alt
   language: 'zh-TW'
-  feature:
-    tabs: false
+  features:
+    - tabs
+    - instant
 
-## Custom
-#extra_css:
-#  - 'stylesheets/extra.css'
 
-extra:
-  manifest: 'manifest.webmanifest'
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#adding-social-links
-  social:
-    - type: facebook
-      link: https://www.facebook.com/groups/sre.taiwan/
-    - type: github
-      link: https://github.com/cross-community/study-area-docs/
-  disqus: 'sre-tw'
+# -----------------------------------------------------------------------------
+# extra
+# -----------------------------------------------------------------------------
+#extra:
+#  manifest: 'manifest.webmanifest'
+  # social:
+  #   - type: facebook
+  #     link: https://www.facebook.com/groups/sre.taiwan/
+  #   - type: github
+  #     link: https://github.com/cross-community/study-area-docs/
+  # disqus: 'sre-tw'
 
-# Extensions
+# -----------------------------------------------------------------------------
+# extensions
+# -----------------------------------------------------------------------------
+
 markdown_extensions:
   - admonition
   - codehilite:
