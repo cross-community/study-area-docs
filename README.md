@@ -39,10 +39,10 @@
 ## 編輯流程
 
 1. 把資料 (pdf, 圖檔) 放到對應的位置：
-  * pdf: `/docs/pdf`
-  * 圖檔: `/docs/images`
+    * pdf: `/docs/pdf`
+    * 圖檔: `/docs/images`
 1. 把這次的文件 (markdown) 放到對應的目錄
-  * 讀書會每個 Round 都從第一層目錄開始
+    * 讀書會每個 Round 都從第一層目錄開始
 1. 修改 mkdocs 的索引檔 `mkdocs.yaml`
 1. 在本機測試，沒問題後發 PR
 
