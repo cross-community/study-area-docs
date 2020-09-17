@@ -33,9 +33,8 @@ nav:
     - "SRE 經典好文": "Articles.md"
     - "事件處理案例": "Incidents.md"
     - "相關活動分享": "Events.md"
-  - "----------": separator.md
   - "R2: Continuous Delivery": 
-    - "活動摘要": 02_CD.md
+    - "活動摘要": "02_CD.md"
     - "第一章 軟體交付的問題": "02_CD/CH01.md"
     - "第二章 設置管理": "02_CD/CH02.md"
     - "第三章 持續整合": "02_CD/CH03.md"
@@ -51,14 +50,14 @@ nav:
     - "第十三章 元件相依性管理": "02_CD/CH13.md"
     - "第十四章 版本控制進階": "02_CD/CH14.md"
     - "第十五章 持續交付管理": "02_CD/CH15.md"
-  - "R3：深入剖析 K8s":
-    - "春酒與選書": 03_K8s.md
+  - "R3: 深入剖析 K8s": 
+    - "春酒與選書": "03_K8s.md"
     - "讀書會行程": "03_K8s/Schedule.md"
     - "讀書會 QA": "03_K8s/QA.md"
     - "第十八章": "03_K8s/CH18.md"
     - "第十九章": "03_K8s/CH19.md"
   - "R4: Linux 效能優化實戰":
-    - "活動摘要": 04_Linux.md
+    - "活動摘要": "04_Linux.md"
     - "選書": "04_Linux/Vote.md"
     - "#01 CH01-04": "04_Linux/R4-01.md"
     - "#02 CH05-06": "04_Linux/R4-02.md"
