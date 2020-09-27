@@ -11,8 +11,8 @@ docs_dir: 'docs'
 # -----------------------------------------------------------------------------
 nav:
   - "讀書會": 
-    - "緣由": index.md
-    - "導讀摘要": GuideLine.md
+    - "緣由": "index.md"
+    - "導讀摘要": "GuideLine.md"
     - "Change Log": "ChangeLog.md"
     - "記事": "notes.md"
   - "R1: Site Reliability Engineering":
@@ -70,6 +70,7 @@ nav:
     - "#09 CH27-29": "04_Linux/R4-09.md"
     - "#10 CH30-32": "04_Linux/R4-10.md"
     - "#11 CH33-35": "04_Linux/R4-11.md"
+    - "#12 CH36-38": "04_Linux/R4-12.md"
 
 # -----------------------------------------------------------------------------
 # Theme: material
