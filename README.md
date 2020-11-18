@@ -2,7 +2,7 @@
 # Public Information
 
 * `https://www.sre.tw`
-  * 靜態頁面 (bootstrap)：
+  * 靜態頁面 (bootstrap)
   * git repos: `https://cross-community.github.io/sre/`
 * `https://study-area.sre.tw/`
   * 讀書會資料 (mkdocs)
@@ -88,6 +88,6 @@ mkdocs serve
 ## Contributors
 
 * [Site Reliability Engineering Taiwan](https://www.facebook.com/groups/sre.taiwan/)
-* [DevOps Taiwn](https://www.facebook.com/groups/DevOpsTaiwan/)
+* [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/)
 * DNS (sre.tw) 提供：[Chu-Siang Lai](http://note.drx.tw/)
 * 讀書會場地提供：PIXNET, 91APP
